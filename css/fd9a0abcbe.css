@@ -1,0 +1,96 @@
+/* default styles for extension "tx_brapressmcfitcom" */
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-bra-pressreports table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-bra-pressreports table th {
+		font-weight:bold;
+	}
+
+	.tx-bra-pressreports table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
+/* default styles for extension "tx_branewsmcfitcom" */
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-bra-news table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-bra-news table th {
+		font-weight:bold;
+	}
+
+	.tx-bra-news table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
+/* default styles for extension "tx_brastudioprofilesmcfitcom" */
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-bra-studioprofiles table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-bra-studioprofiles table th {
+		font-weight:bold;
+	}
+
+	.tx-bra-studioprofiles table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
